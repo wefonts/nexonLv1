@@ -24,11 +24,11 @@
     font-family: "nexonLv1";
     font-weight: 700;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/nexonLv1/nexonLv1-Bold.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/nexonLv1/nexonLv1-Bold.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/nexonLv1/nexonLv1-Bold.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/nexonLv1/nexonLv1-Bold.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/nexonLv1/nexonLv1-Bold.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/nexonLv1/nexonLv1-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/nexonLv1/nexonLv1-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/nexonLv1/nexonLv1-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/nexonLv1/nexonLv1-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/nexonLv1/nexonLv1-Bold.ttf") format("truetype");
     font-display: swap;
 } 
 .nexonLv1 {
